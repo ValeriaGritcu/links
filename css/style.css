@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+}
+
+#ip {
+    /* width: 30%; */
+    height: 400px;
+    margin: 0px auto;
+    display: block;
+}
+
+.Galeria {
+    width: 200px;
+    margin: 0 5px;
+    height: 200px;
+    object-fit: cover;
+}
